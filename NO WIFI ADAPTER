@@ -1,0 +1,4 @@
+if you were able to access internet in last system session but not after restart , says no wifi adapter
+
+
+sudo apt-get install --reinstall  bcmwl-kernel-source
